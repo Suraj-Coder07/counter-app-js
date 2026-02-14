@@ -1,2 +1,9 @@
-# counter-app-js
-Simple counter app using HTML CSS and JavaScript
+# Counter App
+
+A simple counter application built using HTML, CSS and JavaScript.
+
+## Features
+- Increment counter
+- Decrement counter
+- Reset counter
+
